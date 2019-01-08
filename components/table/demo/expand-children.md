@@ -47,9 +47,10 @@ const data = [{
   address: 'New York No. 1 Lake Park',
   children: [{
     key: 11,
-    name: 'John Brown',
-    age: 42,
-    address: 'New York No. 2 Lake Park',
+    name2: 'John Brown',
+    
+    age2: 42,
+    address2: 'New York No. 2 Lake Park',
   }, {
     key: 12,
     name: 'John Brown jr.',
